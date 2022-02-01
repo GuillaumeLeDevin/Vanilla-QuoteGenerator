@@ -130,10 +130,10 @@ body {
       max-width: 66.666667%;
   }
 }
-@media (min-width: 831px)
-body {
-    position: relative;
-    height: auto;
-    min-height: 100vh;
-  }
+@media (min-width: 831px) {
+    body {
+        position: relative;
+        height: auto;
+        min-height: 100vh;
+    }
 }
